@@ -12,7 +12,7 @@ Overview:
 ![Alt text](http://imgur.com/niZ1UT8.jpg)
 ![Alt text](http://imgur.com/X7biEl8.jpg)
 
-2. Save goal values (Water usage in liter) with the help of standard WatchKit View elements (slider, buttons, etc,) .
+2. Save goal values (Water usage in liter) with the help of standard WatchKit View elements (slider, buttons, etc,).
 ![Alt text](http://imgur.com/d48UAbm.jpg)
 ![Alt text](http://imgur.com/opHGjjE.jpg)
 
