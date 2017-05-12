@@ -20,8 +20,10 @@ Overview:
 ![Alt text](http://imgur.com/tKgxUSf.jpg)
 ![Alt text](http://imgur.com/eOXskRV.jpg)
 
+
 4. Send Notifications as reminders and for promote goal-setting function.
 ![Alt text](http://imgur.com/3gqmGOz.jpg)
+
 
 5. Add complications for quick interaction with the user.
 ![Alt text](http://imgur.com/wff6Sr3.jpg)
