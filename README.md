@@ -19,11 +19,11 @@ Overview:
 3. Transfer data from iOS to WatchKit and store it. Activate Parent-app from Watch App for data synchronising purposes.
 ![Alt text](http://imgur.com/tKgxUSf.jpg)
 ![Alt text](http://imgur.com/eOXskRV.jpg)
-
+<br />
 
 4. Send Notifications as reminders and for promote goal-setting function.
 ![Alt text](http://imgur.com/3gqmGOz.jpg)
-
+<br />
 
 5. Add complications for quick interaction with the user.
 ![Alt text](http://imgur.com/wff6Sr3.jpg)
