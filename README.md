@@ -8,6 +8,10 @@ The whole sample code is included. The following gives an overview of which func
 Overview:
 
 
-![Alt text](http://imgur.com/d48UAbm.jpg )
+![Alt text](http://imgur.com/d48UAbm.jpg)
+![Alt text](http://imgur.com/opHGjjE.jpg)
+![Alt text](http://imgur.com/QezdLIa.jpg)
+![Alt text](http://imgur.com/niZ1UT8.jpg)
+![Alt text](http://imgur.com/X7biEl8.jpg)
 
 
