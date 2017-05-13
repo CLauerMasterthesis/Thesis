@@ -21,6 +21,7 @@ Overview:
 4. Notifications as reminders for synchronising and new data and for promote goal-setting function.
 <img src="http://imgur.com/3gqmGOz.jpg" width="300"/> 
 
-5. Complications for quick interaction with the user.
-![image](http://imgur.com/wff6Sr3.jpg)![image](http://imgur.com/pobArAp.jpg)
+5. Complications for quick interaction with the user and for an easy way to start the app.
+<img src="http://imgur.com/wff6Sr3.jpg" width="300"/> <img src="http://imgur.com/pobArAp.jpg" width="300"/> 
+
 
