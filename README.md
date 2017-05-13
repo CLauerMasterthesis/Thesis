@@ -24,4 +24,5 @@ Overview:
 5. Complications for quick interaction with the user and for an easy way to start the app.
 <img src="http://imgur.com/wff6Sr3.jpg" width="300"/> <img src="http://imgur.com/pobArAp.jpg" width="300"/> 
 
-
+6. A first try to use Location-Updates as a trigger for Notifications.
+<img src="http://imgur.com/B2S6Ae6.jpg" width="300"/> <img src="http://imgur.com/0zRKAIq.jpg" width="300"/> 
