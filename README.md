@@ -19,7 +19,7 @@ Transfer data from iOS to WatchKit and store it. Activate Parent-app from Watch 
 ![Alt text](http://imgur.com/tKgxUSf.jpg)![Alt text](http://imgur.com/eOXskRV.jpg)
 
 Notifications as reminders and for promote goal-setting function.
-![image](http://imgur.com/3gqmGOz.jpg)
+![Alt text](http://imgur.com/3gqmGOz.jpg)
 
 5. Complications for quick interaction with the user.
 ![image](http://imgur.com/wff6Sr3.jpg)![image](http://imgur.com/pobArAp.jpg)
