@@ -7,18 +7,18 @@ The whole sample code is included. The following gives an overview of which func
 
 Overview:
 
-1. Showing historical and comparsion data (Text and Images) within the main View:
+Showing historical and comparsion data (Text and Images) within the main View:
 ![Alt text](http://imgur.com/QezdLIa.jpg)
 ![Alt text](http://imgur.com/niZ1UT8.jpg)
 ![Alt text](http://imgur.com/X7biEl8.jpg)
 
-2. Save goal values (Water usage in liter) with the help of standard WatchKit View elements (slider, buttons, etc,).
+Save goal values (Water usage in liter) with the help of standard WatchKit View elements (slider, buttons, etc,).
 ![Alt text](http://imgur.com/d48UAbm.jpg)![Alt text](http://imgur.com/opHGjjE.jpg)
 
-3. Transfer data from iOS to WatchKit and store it. Activate Parent-app from Watch App for data synchronising purposes.
+Transfer data from iOS to WatchKit and store it. Activate Parent-app from Watch App for data synchronising purposes.
 ![Alt text](http://imgur.com/tKgxUSf.jpg)![Alt text](http://imgur.com/eOXskRV.jpg)
 
-4. Notifications as reminders and for promote goal-setting function.
+Notifications as reminders and for promote goal-setting function.
 ![image](http://imgur.com/3gqmGOz.jpg)
 
 5. Complications for quick interaction with the user.
