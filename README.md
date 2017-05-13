@@ -1,9 +1,9 @@
 # Masterthesis: Feedback-WatchApp Christian Lauer
 
-This is a WatchKit-Project for an Apple Watch based Feedbacksystem prototype.
+This is a WatchKit-Project for an Apple Watch based Feedback System prototype.
 Feedback Systems should support the user with the process of energy saving by transmitting them information about their energy usage as well as visualizing this information.
-Purpose of this project is to show how Feedbacksystem can be applied in a Watch-App.
-The whole sample code is included. The following gives an overview of which functions have been implemented.
+The purpose of this project is to show how Feedback Systems can be applied in a Watch-App.
+The whole sample code is included. This Github repository gives an overview of which functions have been implemented.
 
 Overview:
 
@@ -15,10 +15,10 @@ Overview:
 2. Save goal values (Water usage in liter) with the help of standard WatchKit View elements (slider, buttons, etc,).
 ![Alt text](http://imgur.com/d48UAbm.jpg)![Alt text](http://imgur.com/opHGjjE.jpg)
 
-3. Transfer data from iOS to WatchKit and store it. Activate Parent-app from Watch App for data synchronising.
+3. Transfer data from iOS to WatchKit and store it. Activate Parent-app from Watch App for data synchronisation.
 ![Alt text](http://imgur.com/eOXskRV.jpg)
 
-4. Notifications as reminders for synchronising and new data and for promote goal-setting function.
+4. Notifications as reminders for synchronisation and new data as well as for promoting goal-setting function.
 <img src="http://imgur.com/3gqmGOz.jpg" width="300"/> 
 
 5. Complications for quick interaction with the user and for an easy way to start the app.
