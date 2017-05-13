@@ -18,7 +18,8 @@ Save goal values (Water usage in liter) with the help of standard WatchKit View 
 Transfer data from iOS to WatchKit and store it. Activate Parent-app from Watch App for data synchronising purposes.
 ![Alt text](http://imgur.com/eOXskRV.jpg)
 
-<img src="http://imgur.com/eOXskRV.jpg" width="425"/> <img src="image2.png" width="425"/> 
+Notifications as reminders and for promote goal-setting function.
+<img src="http://imgur.com/3gqmGOz.jpg" width="200"/> 
 
 Notifications as reminders and for promote goal-setting function.
 ![Alt text](http://imgur.com/3gqmGOz.jpg)
